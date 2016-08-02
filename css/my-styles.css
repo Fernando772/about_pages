@@ -2,3 +2,45 @@
   background: black;
   color: white;
 }
+.crazy-styles {
+  background-image: url("https://yt3.ggpht.com/-V-4mYMLQy6A/AAAAAAAAAAI/AAAAAAAAAAA/3e9Y3eOzwOY/s900-c-k-no-rj-c0xffffff/photo.jpg");
+  transform: rotateZ(0deg);
+}
+
+.blackout{
+  background-color: black;
+}
+contain {
+  max-width: 400px;
+  background-color: black;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+}
+.contain div {
+  background-color: white;
+  width: 100%;
+  display: inline-block;
+  display: none;
+}
+.contain img {
+  width: 100%;
+  height: auto;
+}
+
+button {
+  position: absolute;
+}
+
+.next {
+  right: 5px;
+}
+
+.prev {
+  left: 5px;
+}
+.demo{
+display:center;
+resize: both;
+width:75%;
+}
