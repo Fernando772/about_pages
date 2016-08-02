@@ -1,0 +1,49 @@
+Goal for the rest of this project is to work with all three technologies
+to make your own website
+
+The three primary web technologies are:
+- HTML
+- CSS
+- Javascript
+
+We will link the HTML pages together using <a>
+We will style the pages using CSS .classes and #ids
+We will make the pages interactive with javascript
+
+HTML pages we will write ourselves
+For CSS styles we will use a "library" called Bootstrap
+For JS we will use a "library" called jQuery
+
+---------------------------------------------------------
+
+Project:
+
+We will create four pages
+- landing
+- resume
+- songs
+- *whatever you want*
+
+Monday Mar 21st
+------------------------------------
+
+1. Add Links to other pages
+
+In home.html add links to header
+  <a href='resume.html'>Resume</a>
+  <a href='songs.html'>Songs</a>
+  <a href='other.html'> *whatever you want*</a>
+
+2.  Add HTML to other pages
+  Copy over the HTML from 'home.html' to 'resume.html'
+  Copy over the HTML from 'home.html' to 'songs.html'
+
+  Create a new HTML page called *whatever you want*
+  Copy over the HTML from 'home.html' to your new page
+
+3. Add the "active" class to the links on the applicable pages
+
+  See how the Home <li> has this class in home.html?
+    <li class="active"><a href="#">Home</a></li>
+
+  Add the "active" class to links on each page
