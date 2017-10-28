@@ -2,7 +2,7 @@ $( document ).ready(function()
 {
 
     $("#contact").click(function(){
-      alert('Youtube- KingWolf v2 Instagram- deadwolfv2          Kik-OpsWolf ');
+      alert('Youtube- KingWolf v2 Instagram- Cohven   Kik-OpsWolf ');
     });
 
     $("#fade-to-black").click(function(){

@@ -9,6 +9,7 @@
 
 .blackout{
   background-color: black;
+  color:white;
 }
 contain {
   max-width: 400px;
@@ -43,4 +44,8 @@ button {
 display:center;
 resize: both;
 width:75%;
+}
+
+btn btn-default btn-lg{
+  background-color:green; 
 }
