@@ -1,6 +1,9 @@
 $( document ).ready(function()
 {
-
+  $("#cover").animate({
+  opacity:0,
+  },5000,function() { $(this).remove(); });
+  
     $("#contact").click(function(){
       alert('Youtube- KingWolf v2 Instagram- Cohven   Kik-OpsWolf ');
     });
@@ -58,3 +61,4 @@ $('.prev').click(function() {
 
 
 });
+
